@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoORMHelperCache">
+    <option name="schemaMapping">
+      <map>
+        <entry key="TaxIncludedPriceJob">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/prices/prices.go" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="scannedPathMapping">
+      <map>
+        <entry key="file://$PROJECT_DIR$/conversion/conversion.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713489580996" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713484494715" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/prices/prices.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713489824999" />
+              <option name="schema">
+                <list>
+                  <option value="TaxIncludedPriceJob" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tableStructMapping">
+      <map>
+        <entry key="tax_included_price_job" value="TaxIncludedPriceJob" />
+      </map>
+    </option>
+    <option name="lastTimeChecked" value="1713479406941" />
+  </component>
+</project>

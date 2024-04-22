@@ -3,6 +3,20 @@
   <component name="GoORMHelperCache">
     <option name="schemaMapping">
       <map>
+        <entry key="CMDManager">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/cmdmanager/cmdmanager.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FileManager">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/filemanager/filemanager.go" />
+            </set>
+          </value>
+        </entry>
         <entry key="TaxIncludedPriceJob">
           <value>
             <set>
@@ -14,24 +28,62 @@
     </option>
     <option name="scannedPathMapping">
       <map>
+        <entry key="file://$PROJECT_DIR$/IOManager/IOManager.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713825969059" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/cmdmanager/cmdmanager.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713826990816" />
+              <option name="schema">
+                <list>
+                  <option value="CMDManager" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
         <entry key="file://$PROJECT_DIR$/conversion/conversion.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1713489580996" />
+              <option name="lastModified" value="1713815803678" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/filemanager/filemanager.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713821395327" />
+              <option name="schema">
+                <list>
+                  <option value="FileManager" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/iomanager/iomanager.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1713826015205" />
             </ScannedPath>
           </value>
         </entry>
         <entry key="file://$PROJECT_DIR$/main.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1713484494715" />
+              <option name="lastModified" value="1713827456284" />
             </ScannedPath>
           </value>
         </entry>
         <entry key="file://$PROJECT_DIR$/prices/prices.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1713489824999" />
+              <option name="lastModified" value="1713827836990" />
               <option name="schema">
                 <list>
                   <option value="TaxIncludedPriceJob" />
@@ -44,9 +96,11 @@
     </option>
     <option name="tableStructMapping">
       <map>
+        <entry key="cmd_manager" value="CMDManager" />
+        <entry key="file_manager" value="FileManager" />
         <entry key="tax_included_price_job" value="TaxIncludedPriceJob" />
       </map>
     </option>
-    <option name="lastTimeChecked" value="1713479406941" />
+    <option name="lastTimeChecked" value="1713815356589" />
   </component>
 </project>

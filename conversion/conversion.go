@@ -5,8 +5,8 @@ import (
 	"strconv"
 )
 
-//package to conver to float64/string and int conversions
-
+// converting prices to float64
+// package to conver to float64/string and int conversions
 // receives slice string nad return a float
 func StringToFloats(strings []string) ([]float64, error) {
 
